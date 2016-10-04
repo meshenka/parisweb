@@ -1,6 +1,6 @@
 # WebAssembly, la nouvelle cible de compilation pour le Web
 
-Présenté par Benjamin Bouvieri (Mozilla) [@bjnbvr](https://twitter.com/bnjbvr)
+Présenté par Benjamin Bouvieri (Mozilla) [@bnjbvr](https://twitter.com/bnjbvr)
 
 WebAssembly est une cible de compilation qui vise à produire du code exécutable dans le navigateur, mais proche des directives bas niveau des processeurs
 pour avoir une performance optimal
