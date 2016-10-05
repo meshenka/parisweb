@@ -1,6 +1,6 @@
 # Y'a pas d'avancement, pas de grimaces ! 
 
-Présenté par Thomas Gask (Mediapart) [@methylbro]("https://twitter.com/methylbro)
+Présenté par Thomas Gask (Mediapart) [@methylbro](https://twitter.com/methylbro)
 
 [Slides](https://speakerdeck.com/methylbro/ya-pas-davancement-pas-de-grimaces)
 
