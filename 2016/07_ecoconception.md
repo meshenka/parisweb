@@ -40,9 +40,17 @@ Une grosse partie de cette polution provient des Terminaux: Soyons léger, soyon
 
 Quelques conseils pour améliorer le bilan carbone de vos sites
 
+  * Supprimer les fonctionalités secondaires
+  * Mobile First
+  * UI light et simple
   * Compresser les images, css, js
   * Limiter les animations JS
   * Ne pas faire de Preload
+  * Utiliser est appels AJAX plutot que des reloads complets
+  * Préférer les pages statiques (ou un cache fort)
+
+** SIMPLE IS BEAUTYFULL **
+
 
 Il y a une petite communauté française active, leader dans le monde [GreenIT](http://greenit.fr)
 Cette communauté met à dispositions quelques outils:
