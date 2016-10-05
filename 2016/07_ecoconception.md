@@ -49,7 +49,7 @@ Quelques conseils pour améliorer le bilan carbone de vos sites
   * Utiliser est appels AJAX plutot que des reloads complets
   * Préférer les pages statiques (ou un cache fort)
 
-*SIMPLE IS BEAUTYFULL*
+__SIMPLE IS BEAUTYFULL__
 
 
 Il y a une petite communauté française active, leader dans le monde [GreenIT](http://greenit.fr)
